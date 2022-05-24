@@ -1,0 +1,30 @@
+gils -a: mostrar arquivos ocultos
+cd .. subir um nível de pastas
+antes do commit fazer as configurações necessárias
+informar o autor do arquivo
+pode ser de forma global ou apenas para 1 arquivo.
+De forma global:
+git config --global user.email "escrever o email"
+git config --global user.nickname
+git add *
+git status
+git commit -m "motivo do commit"
+git remote add origin endereço do github
+git remote -v (lista os endereços de repositório remoto que tenho cadastradas)
+git push origin master
+
+md: arquivo extensão markdown é um arquivo de texto com esse arquivo 
+
+para clonar um repositório na minha máquina
+forks do repositório que eu quero clonar
+copiar o endereço do novo repositório no meu github
+vai no gitbash na pasta que eu quero
+git clone e cola o endereço
+a pasta vai estar na minha máquina
+
+git checkout -b "nome branch"
+
+git branch - apresenta todas as branchs existentes em um arquivo git
+
+
+upstream verificar
